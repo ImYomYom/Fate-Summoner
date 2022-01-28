@@ -191,6 +191,14 @@
             "appear": true,
             "pic_url": "MamiNanami.png",
             "line": "I've fallen in love with someone else,"
+        },
+        {
+            "name": "Nagatoro",
+            "f_class": "Unknown",
+            "claim": false,
+            "appear": true,
+            "pic_url": "Nagatoro.png",
+            "line": "Mhmm? What happened, Senpai? Cat got your tongue~?"
         }
     ]
 }
