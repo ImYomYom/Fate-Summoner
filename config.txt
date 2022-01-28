@@ -78,7 +78,7 @@
             "claim": false,
             "appear": true,
             "pic_url": "Astolfo.png",
-            "line": "I ask of you. Are you my Master?"
+            "line": "I ask of you. Are you my Master? ... Haha! That sounds pretty serious, doesn't it?! Rider, Astolfo! Yahoo!"
         },
         {
             "name": "Chevalier d'Eon",
