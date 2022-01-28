@@ -271,6 +271,22 @@
             "appear": true,
             "pic_url": "ReiAyanami.png",
             "line": "Demon Lord... Shinji. You need to get in the robot."
+        },
+        {
+            "name": "Mordred",
+            "f_class": "Saber",
+            "claim": false,
+            "appear": true,
+            "pic_url": "Mordred.png",
+            "line": "My father's here, though I'm not a fool. I'll serve you and only you. Even I wouldn't not swear my loyalty to two kings at once, y'know?"
+        },
+        {
+            "name": "Satoko Houjou",
+            "f_class": "Assassin",
+            "claim": false,
+            "appear": true,
+            "pic_url": "SatokoHoujou.png",
+            "line": "My methods of approaching problems are quite different to the ones you've grown to expect from your servants. Nevertheless... Nice to meet you, Master."
         }
     ]
 }
