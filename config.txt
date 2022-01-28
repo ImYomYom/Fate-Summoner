@@ -234,7 +234,7 @@
         },
         {
             "name": "Emilia",
-            "f_class": "Unknown",
+            "f_class": "Caster",
             "claim": false,
             "appear": true,
             "pic_url": "Emilia.png",
