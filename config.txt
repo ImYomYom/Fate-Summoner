@@ -215,6 +215,30 @@
             "appear": true,
             "pic_url": "TsukiUzaki.png",
             "line": "Ahh... Have you met my daughter yet? She's a good girl. Please, take care of her."
+        },
+        {
+            "name": "Ram",
+            "f_class": "Assassin",
+            "claim": false,
+            "appear": true,
+            "pic_url": "Ram.png",
+            "line": "This Barusu guy... I can't believe Emilia has her eyes on him. He should die."
+        },
+        {
+            "name": "Rem",
+            "f_class": "Assassin",
+            "claim": false,
+            "appear": true,
+            "pic_url": "Rem.png",
+            "line": "If you're not here for business, then you should leave. What's that? You're here for me?"
+        },
+        {
+            "name": "Emilia",
+            "f_class": "Unknown",
+            "claim": false,
+            "appear": true,
+            "pic_url": "Emilia.png",
+            "line": "I think everyone should care about each other. Though I do understand, too, how hard is to open one's heart..."
         }
     ]
 }
