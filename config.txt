@@ -207,6 +207,14 @@
             "appear": true,
             "pic_url": "JackTheRipper.png",
             "line": "Assassin, Jack the Ripper. Please take care of me, Mommy."
+        },
+        {
+            "name": "Tsuki Uzaki",
+            "f_class": "Unknown",
+            "claim": false,
+            "appear": true,
+            "pic_url": "TsukiUzaki.png",
+            "line": "Ahh... Have you met my daughter yet? She's a good girl. Please, take care of her."
         }
     ]
 }
