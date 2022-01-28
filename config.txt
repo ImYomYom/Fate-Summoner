@@ -295,6 +295,14 @@
             "appear": true,
             "pic_url": "AiHinatsuru.png",
             "line": "Just as promised! Please, accept me as your disciple!"
+        },
+        {
+            "name": "Bradamante",
+            "f_class": "Lancer",
+            "claim": false,
+            "appear": true,
+            "pic_url": "Bradamante.png",
+            "line": "I am a member of Charlemagne's Twelve Paladins. I have been summoned as a Lancer, and I will bring justice in the name of His Imperial Majesty!"
         }
     ]
 }
