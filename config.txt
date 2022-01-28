@@ -287,6 +287,14 @@
             "appear": true,
             "pic_url": "SatokoHoujou.png",
             "line": "My methods of approaching problems are quite different to the ones you've grown to expect from your servants. Nevertheless... Nice to meet you, Master."
+        },
+        {
+            "name": "Ai Hinatsuru",
+            "f_class": "Unknown",
+            "claim": false,
+            "appear": true,
+            "pic_url": "AiHinatsuru.png",
+            "line": "Just as promised! Please, accept me as your disciple!"
         }
     ]
 }
