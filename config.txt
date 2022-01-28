@@ -45,7 +45,7 @@
             "f_class": "Saber",
             "claim": false,
             "appear": true,
-            "pic_url": "Beni.png",
+            "pic_url": "Benienma.png",
             "line": "Welcome to the Enma-tei... Oh, my apologies. Servant, Saber. The Tongue-Cut Sparrow, Beni-Enma. I am at your service."
         },
         {
