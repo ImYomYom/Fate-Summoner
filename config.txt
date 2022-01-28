@@ -247,6 +247,30 @@
             "appear": true,
             "pic_url": "NeroClaudius.png",
             "line": "Nero Claudius, I have arrived in response to your call! Umu, you can consider yourself lucky, Master!"
+        },
+        {
+            "name": "Misato Katsuragi",
+            "f_class": "Unknown",
+            "claim": false,
+            "appear": true,
+            "pic_url": "MisatoKatsuragi.png",
+            "line": "It's hard to accept, but this world is doomed. Without the Evas, we'll..."
+        },
+        {
+            "name": "Asuka Langley Soryou",
+            "f_class": "Lancer",
+            "claim": false,
+            "appear": true,
+            "pic_url": "Asuka.png",
+            "line": "Are you retarded?! Come help us out, NOW! you can't just keep crying and begging for someone to help you!"
+        },
+        {
+            "name": "Rei Ayanami",
+            "f_class": "Rider",
+            "claim": false,
+            "appear": true,
+            "pic_url": "ReiAyanami.png",
+            "line": "Demon Lord... Shinji. You need to get in the robot."
         }
     ]
 }
