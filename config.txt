@@ -3,7 +3,7 @@
         {
             "name": "Astolfo",
             "f_class": "Rider",
-            "claim": true,
+            "claim": false,
             "appear": true,
             "pic_url": "Astolfo.png",
             "line": "I ask of you. Are you my Master? ... Haha! That sounds pretty serious, doesn't it?! Rider, Astolfo! Yahoo!"
@@ -11,7 +11,7 @@
         {
             "name": "Chevalier d'Eon",
             "f_class": "Saber",
-            "claim": true,
+            "claim": false,
             "appear": true,
             "pic_url": "d'Eon.png",
             "line": "Chevalier d'Eon, Knight of the White Lily. As France's pride, I swear on my honour to serve you."
@@ -19,7 +19,7 @@
         {
             "name": "Kiana Kaslana",
             "f_class": "Rider",
-            "claim": true,
+            "claim": false,
             "appear": true,
             "pic_url": "Kiana.png",
             "line": "Kiana is on board! It's a pleasure to meet you, Captain! ... Or is it Master...?"
@@ -27,7 +27,7 @@
         {
             "name": "Lumine",
             "f_class": "Foreigner",
-            "claim": true,
+            "claim": false,
             "appear": true,
             "pic_url": "Lumine.png",
             "line": "..."
@@ -35,7 +35,7 @@
         {
             "name": "Wiz",
             "f_class": "Caster",
-            "claim": true,
+            "claim": false,
             "appear": true,
             "pic_url": "Wiz.png",
             "line": "A-ah! Nice to meet you, welcome to my shop!"
@@ -43,7 +43,7 @@
         {
             "name": "Beni-enma",
             "f_class": "Saber",
-            "claim": true,
+            "claim": false,
             "appear": true,
             "pic_url": "Benienma.png",
             "line": "Welcome to the Enma-tei... Oh, my apologies. Servant, Saber. The Tongue-Cut Sparrow, Beni-Enma. I am at your service."
@@ -51,7 +51,7 @@
         {
             "name": "Rin Tohsaka",
             "f_class": "Caster",
-            "claim": true,
+            "claim": false,
             "appear": true,
             "pic_url": "Tohsaka.png",
             "line": "EHH?! Me, a Servant?! ... No, I don't even have the qualifications! Why was I chosen for this!??!?!?! ... Oh, you're staring me. Rin Tohsaka, Caster. I'll destroy our enemies... 'Master'."
@@ -59,7 +59,7 @@
         {
             "name": "Mamako Oosuki",
             "f_class": "Saber",
-            "claim": true,
+            "claim": false,
             "appear": true,
             "pic_url": "Mamako.png",
             "line": "Ara, ara.~"
@@ -67,7 +67,7 @@
         {
             "name": "Sei Sh\u014dnagon",
             "f_class": "Archer",
-            "claim": true,
+            "claim": false,
             "appear": true,
             "pic_url": "Sei.png",
             "line": "I am an Archer Servant, Sei Sh\u014dnagon. I won\u2019t take any responsibilities if I make a mistake, ohohohoho. Errr\u2026 This should do it for greetings, right? From now on, please take care of me, Chan-Masu.~"
@@ -75,12 +75,12 @@
         {
             "name": "Mio Honda",
             "f_class": "Unknown",
-            "claim": true,
+            "claim": false,
             "appear": true,
             "pic_url": "Honda.png",
             "line": "I'm here! You didn't expect to see me, did you! C'mon, c'mon! Let's go brighten someone's day! Everything will be alright!"
         },
-	{
+        {
             "name": "UMP45",
             "f_class": "Archer",
             "claim": false,
@@ -88,7 +88,7 @@
             "pic_url": "ump45.png",
             "line": "Hey, Commander, UMP45 has arrived. Let's get along from now on.~"
         },
-	{
+        {
             "name": "Raphtalia",
             "f_class": "Saber",
             "claim": false,
