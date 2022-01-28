@@ -199,6 +199,14 @@
             "appear": true,
             "pic_url": "Nagatoro.png",
             "line": "Mhmm? What happened, Senpai? Cat got your tongue~?"
+        },
+        {
+            "name": "Jack the Ripper",
+            "f_class": "Assassin",
+            "claim": false,
+            "appear": true,
+            "pic_url": "JackTheRipper.png",
+            "line": "Assassin, Jack the Ripper. Please take care of me, Mommy."
         }
     ]
 }
