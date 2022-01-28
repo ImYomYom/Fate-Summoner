@@ -95,6 +95,78 @@
             "appear": true,
             "pic_url": "Raphtalia.png",
             "line": "I'm Naofumi-sama's sword. None shall... Huh? Sorry, sorry. I thought you were someone else. I'm really sorry... Hmph! Good afternoon! I'm Raphtalia. Let's try to get along."
+        },
+        {
+            "name": "Tatsumaki",
+            "f_class": "Caster",
+            "claim": false,
+            "appear": true,
+            "pic_url": "Tatsumaki.png",
+            "line": "Mental strength is secondary. All you really need is overwhelming power."
+        },
+        {
+            "name": "Megumin",
+            "f_class": "Caster",
+            "claim": false,
+            "appear": true,
+            "pic_url": "Megumin.png",
+            "line": "Wahahahahaha! My name is Megumin, the number one mage of Axel! Come, you shall all become my experience points today!"
+        },
+        {
+            "name": "Rika Furude",
+            "f_class": "Assassin",
+            "claim": false,
+            "appear": true,
+            "pic_url": "Rika_Furude.png",
+            "line": "Perhaps living without sin is a sin in itself."
+        },
+	{
+            "name": "Helena Blavatsky",
+            "f_class": "Caster",
+            "claim": false,
+            "appear": true,
+            "pic_url": "Helena_Blavatsky.png",
+            "line": "...It's all right. This Caster will guide you along the way!"
+        },
+	{
+            "name": "Aqua",
+            "f_class": "Caster",
+            "claim": false,
+            "appear": true,
+            "pic_url": "Aqua.png",
+            "line": "No matter what you pick, it’s all the same. Nobody’s expecting much from a shut-in game otaku anyway."
+        },
+	{
+            "name": "Darkness",
+            "f_class": "Saber",
+            "claim": false,
+            "appear": true,
+            "pic_url": "Darkness.png",
+            "line": "You may do as you please with my body, but don’t think you’ll be free to do as you please with my heart!"
+        },
+	{
+            "name": "Mai Sakurajima",
+            "f_class": "Unknown",
+            "claim": false,
+            "appear": true,
+            "pic_url": "Mai_Sakurajima.png",
+            "line": "You're having lewd thoughts, aren't you?"
+        },
+	{
+            "name": "Kaguya Shinomiya",
+            "f_class": "Unknown",
+            "claim": false,
+            "appear": true,
+            "pic_url": "Kaguya_Shinomiya.png",
+            "line": "How cute..."
+        },
+	{
+            "name": "Himiko Toga",
+            "f_class": "Assassin",
+            "claim": false,
+            "appear": true,
+            "pic_url": "Himiko_Toga.png",
+            "line": "I just wanna love, live and die my way. My normal way. I wanna be even more like the people I love."
         }
     ]
 }
