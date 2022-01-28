@@ -3,7 +3,7 @@
         {
             "name": "Astolfo",
             "f_class": "Rider",
-            "claim": false,
+            "claim": true,
             "appear": true,
             "pic_url": "Astolfo.png",
             "line": "I ask of you. Are you my Master? ... Haha! That sounds pretty serious, doesn't it?! Rider, Astolfo! Yahoo!"
@@ -11,7 +11,7 @@
         {
             "name": "Chevalier d'Eon",
             "f_class": "Saber",
-            "claim": false,
+            "claim": true,
             "appear": true,
             "pic_url": "d'Eon.png",
             "line": "Chevalier d'Eon, Knight of the White Lily. As France's pride, I swear on my honour to serve you."
@@ -27,7 +27,7 @@
         {
             "name": "Lumine",
             "f_class": "Foreigner",
-            "claim": false,
+            "claim": true,
             "appear": true,
             "pic_url": "Lumine.png",
             "line": "..."
@@ -35,7 +35,7 @@
         {
             "name": "Wiz",
             "f_class": "Caster",
-            "claim": false,
+            "claim": true,
             "appear": true,
             "pic_url": "Wiz.png",
             "line": "A-ah! Nice to meet you, welcome to my shop!"
@@ -43,7 +43,7 @@
         {
             "name": "Beni-enma",
             "f_class": "Saber",
-            "claim": false,
+            "claim": true,
             "appear": true,
             "pic_url": "Benienma.png",
             "line": "Welcome to the Enma-tei... Oh, my apologies. Servant, Saber. The Tongue-Cut Sparrow, Beni-Enma. I am at your service."
@@ -67,7 +67,7 @@
         {
             "name": "Sei Sh\u014dnagon",
             "f_class": "Archer",
-            "claim": false,
+            "claim": true,
             "appear": true,
             "pic_url": "Sei.png",
             "line": "I am an Archer Servant, Sei Sh\u014dnagon. I won\u2019t take any responsibilities if I make a mistake, ohohohoho. Errr\u2026 This should do it for greetings, right? From now on, please take care of me, Chan-Masu.~"
@@ -75,10 +75,26 @@
         {
             "name": "Mio Honda",
             "f_class": "Unknown",
-            "claim": false,
+            "claim": true,
             "appear": true,
             "pic_url": "Honda.png",
             "line": "I'm here! You didn't expect to see me, did you! C'mon, c'mon! Let's go brighten someone's day! Everything will be alright!"
+        },
+	{
+            "name": "UMP45",
+            "f_class": "Archer",
+            "claim": false,
+            "appear": true,
+            "pic_url": "ump45.png",
+            "line": "Hey, Commander, UMP45 has arrived. Let's get along from now on.~"
+        },
+	{
+            "name": "Raphtalia",
+            "f_class": "Saber",
+            "claim": false,
+            "appear": true,
+            "pic_url": "Raphtalia.png",
+            "line": "I'm Naofumi-sama's sword. None shall... Huh? Sorry, sorry. I thought you were someone else. I'm really sorry... Hmph! Good afternoon! I'm Raphtalia. Let's try to get along."
         }
     ]
 }
