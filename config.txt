@@ -190,7 +190,7 @@
             "claim": false,
             "appear": true,
             "pic_url": "MamiNanami.png",
-            "line": "I've fallen in love with someone else,"
+            "line": "I've fallen in love with you, for now! Let's try not to break up."
         },
         {
             "name": "Nagatoro",
@@ -303,6 +303,30 @@
             "appear": true,
             "pic_url": "Bradamante.png",
             "line": "I am a member of Charlemagne's Twelve Paladins. I have been summoned as a Lancer, and I will bring justice in the name of His Imperial Majesty!"
+        },
+        {
+            "name": "Nami",
+            "f_class": "Caster",
+            "claim": false,
+            "appear": true,
+            "pic_url": "Nami.png",
+            "line": "I'll have the entire world mapped out! Will you help me, Master?"
+        },
+        {
+            "name": "Nico Robin",
+            "f_class": "Caster",
+            "claim": false,
+            "appear": true,
+            "pic_url": "NicoRobin.png",
+            "line": "Master. My dream is to uncover the True History of the world. Take me to adventures with you."
+        },
+        {
+            "name": "Boa Hancock",
+            "f_class": "Ruler",
+            "claim": false,
+            "appear": true,
+            "pic_url": "BoaHancock.png",
+            "line": "Get out of my sight, you can't hurt my beloved! Love is always like a hurricane!"
         }
     ]
 }
