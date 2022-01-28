@@ -239,6 +239,14 @@
             "appear": true,
             "pic_url": "Emilia.png",
             "line": "I think everyone should care about each other. Though I do understand, too, how hard is to open one's heart..."
+        },
+        {
+            "name": "Nero Claudius Augustus Germanicus",
+            "f_class": "Saber",
+            "claim": false,
+            "appear": true,
+            "pic_url": "NeroClaudius.png",
+            "line": "Nero Claudius, I have arrived in response to your call! Umu, you can consider yourself lucky, Master!"
         }
     ]
 }
