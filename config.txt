@@ -1,12 +1,84 @@
 {
     "Servant": [
         {
+            "name": "Tatsumaki",
+            "f_class": "Caster",
+            "claim": false,
+            "appear": true,
+            "pic_url": "Tatsumaki.png",
+            "line": "Mental strength is secondary. All you really need is overwhelming power."
+        },
+        {
+            "name": "Megumin",
+            "f_class": "Caster",
+            "claim": false,
+            "appear": true,
+            "pic_url": "Megumin.png",
+            "line": "Wahahahahaha! My name is Megumin, the number one mage of Axel! Come, you shall all become my experience points today!"
+        },
+        {
+            "name": "Rika Furude",
+            "f_class": "Assassin",
+            "claim": false,
+            "appear": true,
+            "pic_url": "RikaFurude.png",
+            "line": "Perhaps living without sin is a sin in itself."
+        },
+        {
+            "name": "Helena Blavatsky",
+            "f_class": "Caster",
+            "claim": false,
+            "appear": true,
+            "pic_url": "HelenaBlavatsky.png",
+            "line": "...It's all right. This Caster will guide you along the way!"
+        },
+        {
+            "name": "Aqua",
+            "f_class": "Caster",
+            "claim": false,
+            "appear": true,
+            "pic_url": "Aqua.png",
+            "line": "No matter what you pick, it\u2019s all the same. Nobody\u2019s expecting much from a shut-in game otaku anyway."
+        },
+        {
+            "name": "Darkness",
+            "f_class": "Saber",
+            "claim": false,
+            "appear": true,
+            "pic_url": "Darkness.png",
+            "line": "You may do as you please with my body, but don\u2019t think you\u2019ll be free to do as you please with my heart!"
+        },
+        {
+            "name": "Mai Sakurajima",
+            "f_class": "Unknown",
+            "claim": false,
+            "appear": true,
+            "pic_url": "MaiSakurajima.png",
+            "line": "You're having lewd thoughts, aren't you?"
+        },
+        {
+            "name": "Kaguya Shinomiya",
+            "f_class": "Unknown",
+            "claim": false,
+            "appear": true,
+            "pic_url": "KaguyaShinomiya.png",
+            "line": "How cute..."
+        },
+        {
+            "name": "Himiko Toga",
+            "f_class": "Assassin",
+            "claim": false,
+            "appear": true,
+            "pic_url": "HimikoToga.png",
+            "line": "I just wanna love, live and die my way. My normal way. I wanna be even more like the people I love."
+        },
+        {
             "name": "Astolfo",
             "f_class": "Rider",
             "claim": false,
             "appear": true,
             "pic_url": "Astolfo.png",
-            "line": "I ask of you. Are you my Master? ... Haha! That sounds pretty serious, doesn't it?! Rider, Astolfo! Yahoo!"
+            "line": "I ask of you. Are you my Master?"
         },
         {
             "name": "Chevalier d'Eon",
@@ -49,11 +121,19 @@
             "line": "Welcome to the Enma-tei... Oh, my apologies. Servant, Saber. The Tongue-Cut Sparrow, Beni-Enma. I am at your service."
         },
         {
+            "name": "Prinz Eugen",
+            "f_class": "Rider",
+            "claim": false,
+            "appear": true,
+            "pic_url": "PrinzEugen.png",
+            "line": "I am Prinz Eugen, the miracle of the Third Reich and the third ship of the Admiral Hipper-class heavy cruisers. I will survive any battle, no matter how fierce. Luck? You sure have some guts."
+        },
+        {
             "name": "Rin Tohsaka",
             "f_class": "Caster",
             "claim": false,
             "appear": true,
-            "pic_url": "Tohsaka.png",
+            "pic_url": "RinTohsaka.png",
             "line": "EHH?! Me, a Servant?! ... No, I don't even have the qualifications! Why was I chosen for this!??!?!?! ... Oh, you're staring me. Rin Tohsaka, Caster. I'll destroy our enemies... 'Master'."
         },
         {
@@ -77,15 +157,23 @@
             "f_class": "Unknown",
             "claim": false,
             "appear": true,
-            "pic_url": "Honda.png",
+            "pic_url": "MioHonda.png",
             "line": "I'm here! You didn't expect to see me, did you! C'mon, c'mon! Let's go brighten someone's day! Everything will be alright!"
+        },
+        {
+            "name": "Tsukishita Kaoru",
+            "f_class": "Unknown",
+            "claim": false,
+            "appear": true,
+            "pic_url": "KaouruTsukishita.png",
+            "line": "... \n(Don't be fooled, it's a guy)"
         },
         {
             "name": "UMP45",
             "f_class": "Archer",
             "claim": false,
             "appear": true,
-            "pic_url": "ump45.png",
+            "pic_url": "UMP45.png",
             "line": "Hey, Commander, UMP45 has arrived. Let's get along from now on.~"
         },
         {
@@ -97,76 +185,12 @@
             "line": "I'm Naofumi-sama's sword. None shall... Huh? Sorry, sorry. I thought you were someone else. I'm really sorry... Hmph! Good afternoon! I'm Raphtalia. Let's try to get along."
         },
         {
-            "name": "Tatsumaki",
-            "f_class": "Caster",
-            "claim": false,
-            "appear": true,
-            "pic_url": "Tatsumaki.png",
-            "line": "Mental strength is secondary. All you really need is overwhelming power."
-        },
-        {
-            "name": "Megumin",
-            "f_class": "Caster",
-            "claim": false,
-            "appear": true,
-            "pic_url": "Megumin.png",
-            "line": "Wahahahahaha! My name is Megumin, the number one mage of Axel! Come, you shall all become my experience points today!"
-        },
-        {
-            "name": "Rika Furude",
-            "f_class": "Assassin",
-            "claim": false,
-            "appear": true,
-            "pic_url": "Rika_Furude.png",
-            "line": "Perhaps living without sin is a sin in itself."
-        },
-	{
-            "name": "Helena Blavatsky",
-            "f_class": "Caster",
-            "claim": false,
-            "appear": true,
-            "pic_url": "Helena_Blavatsky.png",
-            "line": "...It's all right. This Caster will guide you along the way!"
-        },
-	{
-            "name": "Aqua",
-            "f_class": "Caster",
-            "claim": false,
-            "appear": true,
-            "pic_url": "Aqua.png",
-            "line": "No matter what you pick, it’s all the same. Nobody’s expecting much from a shut-in game otaku anyway."
-        },
-	{
-            "name": "Darkness",
-            "f_class": "Saber",
-            "claim": false,
-            "appear": true,
-            "pic_url": "Darkness.png",
-            "line": "You may do as you please with my body, but don’t think you’ll be free to do as you please with my heart!"
-        },
-	{
-            "name": "Mai Sakurajima",
+            "name": "Mami Nanami",
             "f_class": "Unknown",
             "claim": false,
             "appear": true,
-            "pic_url": "Mai_Sakurajima.png",
-            "line": "You're having lewd thoughts, aren't you?"
-        },
-	{
-            "name": "Kaguya Shinomiya",
-            "f_class": "Unknown",
-            "claim": false,
-            "appear": true,
-            "pic_url": "Kaguya_Shinomiya.png",
-            "line": "How cute..."
-        },
-	{
-            "name": "Himiko Toga",
-            "f_class": "Assassin",
-            "claim": false,
-            "appear": true,
-            "pic_url": "Himiko_Toga.png",
-            "line": "I just wanna love, live and die my way. My normal way. I wanna be even more like the people I love."
+            "pic_url": "MamiNanami.png",
+            "line": "I've fallen in love with someone else,"
         }
     ]
 }
