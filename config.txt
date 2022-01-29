@@ -327,6 +327,78 @@
             "appear": true,
             "pic_url": "BoaHancock.png",
             "line": "Get out of my sight, you can't hurt my beloved! Love is always like a hurricane!"
+        },
+        {
+            "name": "Yuugiri",
+            "f_class": "Assassin",
+            "claim": false,
+            "appear": true,
+            "pic_url": "Yuugiri.png",
+            "line": "My, my... Would you like me to play a song, Master?"
+        },
+        {
+            "name": "Taiga Aisaka",
+            "f_class": "Unknown",
+            "claim": false,
+            "appear": true,
+            "pic_url": "TaigaAisaka.png",
+            "line": "I hate waiting, but if waiting means being able to be with you, I'll wait as long as forever, Master."
+        },
+        {
+            "name": "Junko Enoshima",
+            "f_class": "Unknown",
+            "claim": false,
+            "appear": true,
+            "pic_url": "JunkoEnoshima.png",
+            "line": "If someone like me is born, that means the world is yearning for despair, Master."
+        },
+        {
+            "name": "Makima",
+            "f_class": "Ruler",
+            "claim": false,
+            "appear": true,
+            "pic_url": "Makima.png",
+            "line": "Only answer with 'Yes' or 'Woof', I don't need a dog who says 'No'."
+        },
+        {
+            "name": "Tae Yamada",
+            "f_class": "Unknown",
+            "claim": false,
+            "appear": true,
+            "pic_url": "TaeYamada.png",
+            "line": "(incomprehensible groans)"
+        },
+        {
+            "name": "Kiryu Coco",
+            "f_class": "Berserker",
+            "claim": false,
+            "appear": true,
+            "pic_url": "KiryuCoco.png",
+            "line": "GOOD MORNING MOTHERFUCKERS!!!"
+        },
+        {
+            "name": "Houshou Marine",
+            "f_class": "Archer",
+            "claim": false,
+            "appear": true,
+            "pic_url": "Marine.png",
+            "line": "Ahoy! Captain of the Houshou Pirates, Houshou Marine here!"
+        },
+        {
+            "name": "Gawr Gura",
+            "f_class": "Lancer",
+            "claim": false,
+            "appear": true,
+            "pic_url": "GawrGura.png",
+            "line": "A."
+        },
+        {
+            "name": "Mori Calliope",
+            "f_class": "Assassin",
+            "claim": false,
+            "appear": true,
+            "pic_url": "Calliope.png",
+            "line": "Kawaii shinigami at your service."
         }
     ]
 }
