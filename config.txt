@@ -399,6 +399,38 @@
             "appear": true,
             "pic_url": "Calliope.png",
             "line": "Kawaii shinigami at your service."
+        },
+        {
+            "name": "Komi Shouko",
+            "f_class": "Unknown",
+            "claim": false,
+            "appear": true,
+            "pic_url": "Komi.png",
+            "line": "..."
+        },
+        {
+            "name": "Yamai Ren",
+            "f_class": "Assassin",
+            "claim": false,
+            "appear": true,
+            "pic_url": "Yamai.png",
+            "line": "Oh! Today will be the day I make you mine, Master."
+        },
+        {
+            "name": "Rumiko Manbagi",
+            "f_class": "Unknown",
+            "claim": false,
+            "appear": true,
+            "pic_url": "Manbagi.png",
+            "line": "Did you just summoned me? Uh, is that's like, normal?"
+        },
+        {
+            "name": "Osana Najimi",
+            "f_class": "Unknown",
+            "claim": false,
+            "appear": true,
+            "pic_url": "OsanaNajimi.png",
+            "line": "(Their gender? Najimi.)"
         }
     ]
 }
